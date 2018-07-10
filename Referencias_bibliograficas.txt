@@ -1,0 +1,19 @@
+Referências Bibliográficas
+
+Trocar tipo de coluna: https://stackoverflow.com/questions/20093474/python-pandas-replace-number-with-string
+
+Contar ocorrências no Pandas: https://stackoverflow.com/questions/20076195/what-is-the-most-efficient-way-of-counting-occurrences-in-pandas
+
+Tutorial Seaborn: https://www.datacamp.com/community/tutorials/seaborn-python-tutorial#sm
+
+Criando coluna no dataframe: https://stackoverflow.com/questions/27041724/using-conditional-to-generate-new-column-in-pandas-dataframe
+
+Mapa do Titanic: http://titanicemfoco.blogspot.com/2011/10/dentro-do-titanic-uma-visao-geral.html
+
+Groupby: http://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.core.groupby.DataFrameGroupBy.agg.html
+
+Tipos de gráfico: https://seaborn.pydata.org/tutorial/categorical.html
+
+Gráfico de pizza: https://stackoverflow.com/questions/31499033/how-do-i-plot-a-pie-chart-using-pandas-with-this-data
+
+Mais gráfico de pizza: https://pythonspot.com/matplotlib-pie-chart/
